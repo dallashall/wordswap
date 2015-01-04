@@ -27,6 +27,11 @@ server.js and the formGen function in view.js.
 Plans
 ========
 First, I need to clean up the code.
+Later, I will tie into social networks.
+Phrase-ify it into an addicting social game.
+
+Fork
+========
 Duplicate the user functionality without any node.js dependency.
 Add styling.
 Create graphics.
